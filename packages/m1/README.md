@@ -1,6 +1,6 @@
 # `m1`
 
-A small description
+A small description.
 
 ## Usage
 
