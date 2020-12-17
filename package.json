@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "modules/*"
+  ],
+  "dependencies": {
+    "lerna": "^3.22.1"
+  }
+}
