@@ -1,6 +1,6 @@
 # `m1`
 
-> TODO: description
+A small description
 
 ## Usage
 
