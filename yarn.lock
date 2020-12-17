@@ -910,6 +910,11 @@
     "@octokit/openapi-types" "^2.0.0"
     "@types/node" ">= 8"
 
+"@theludd/m1@^1.0.0":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@theludd/m1/-/m1-1.0.3.tgz#582d1a09b2b9c95f18eaca2ef2830724dc53f11f"
+  integrity sha512-DwJwCFs/DH6sLf89k7BYg7mA3rq+yUeuET9ARo7yAvaw3cP2Iz9bi9nli/nfZp4TKJAM775UsnbPE/WnJAfY9w==
+
 "@types/glob@^7.1.1":
   version "7.1.3"
   resolved "https://registry.yarnpkg.com/@types/glob/-/glob-7.1.3.tgz#e6ba80f36b7daad2c685acd9266382e68985c183"
