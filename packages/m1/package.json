@@ -1,7 +1,7 @@
 {
   "name": "@theludd/m1",
   "version": "1.0.1",
-  "description": "> TODO: description",
+  "description": "Just a test module for lerna publishing",
   "author": "Ludwig Magnusson <ludwig@mediatool.com>",
   "homepage": "",
   "license": "ISC",
